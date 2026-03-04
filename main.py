@@ -1,4 +1,3 @@
-#!/bin/bash python3
 import tkinter as tk 
 
 ##---------------OUTER DEFS --------##
