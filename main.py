@@ -146,7 +146,7 @@ def dividb() :
 def delb() :
     global m
     m = str(m)
-    m = delete(m,-1)
+    m = m[:-1]
     label.config(text=m)
 
 def cb():
